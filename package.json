@@ -1,0 +1,28 @@
+{
+  "name": "web-graphics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllisonSBahls/web-graphics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllisonSBahls/web-graphics/issues"
+  },
+  "homepage": "https://github.com/AllisonSBahls/web-graphics#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "knex": "^0.18.3",
+    "mysql": "^2.17.1",
+    "pug": "^2.0.4"
+  }
+}
