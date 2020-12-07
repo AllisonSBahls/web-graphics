@@ -1,3 +1,3 @@
-# Graficos
+# Gráficos
 
-Aprendendo a usar graficos utilizando node.js
+Aprendendo a usar gráficos utilizando node.js
